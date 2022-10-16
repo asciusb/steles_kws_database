@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="0x4f8d_collection1_15878_787_1971_837_2032">
+		<attr name="path_img">
+			<str>../data/nomdb/align/images_s150.0/collection1/0x4f8d_collection1_15878_787_1971_837_2032.png</str>
+		</attr>
+		<attr name="sigma1">
+			<int>1</int>
+		</attr>
+		<attr name="sigma2">
+			<int>40</int>
+		</attr>
+		<attr name="threshold">
+			<float>0.87</float>
+		</attr>
+		<attr name="step_length">
+			<int>5</int>
+		</attr>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_0">
+			<attr name="x">
+				<float>4.0</float>
+			</attr>
+			<attr name="y">
+				<float>181.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_1">
+			<attr name="x">
+				<float>8.0</float>
+			</attr>
+			<attr name="y">
+				<float>178.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_2">
+			<attr name="x">
+				<float>9.0</float>
+			</attr>
+			<attr name="y">
+				<float>176.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_3">
+			<attr name="x">
+				<float>16.0</float>
+			</attr>
+			<attr name="y">
+				<float>82.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_4">
+			<attr name="x">
+				<float>19.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_5">
+			<attr name="x">
+				<float>23.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_6">
+			<attr name="x">
+				<float>27.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_7">
+			<attr name="x">
+				<float>31.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_8">
+			<attr name="x">
+				<float>34.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_9">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>128.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_10">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>113.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_11">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>118.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_12">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>123.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_13">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>133.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_14">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>153.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_15">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_16">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>108.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_17">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>138.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_18">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>143.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_19">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>148.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_20">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>88.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_21">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>93.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_22">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>98.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_23">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>103.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_24">
+			<attr name="x">
+				<float>40.0</float>
+			</attr>
+			<attr name="y">
+				<float>81.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_25">
+			<attr name="x">
+				<float>40.0</float>
+			</attr>
+			<attr name="y">
+				<float>83.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_26">
+			<attr name="x">
+				<float>42.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_27">
+			<attr name="x">
+				<float>45.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_28">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_29">
+			<attr name="x">
+				<float>53.0</float>
+			</attr>
+			<attr name="y">
+				<float>44.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_30">
+			<attr name="x">
+				<float>56.0</float>
+			</attr>
+			<attr name="y">
+				<float>39.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_31">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>31.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_32">
+			<attr name="x">
+				<float>58.0</float>
+			</attr>
+			<attr name="y">
+				<float>34.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_33">
+			<attr name="x">
+				<float>67.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_34">
+			<attr name="x">
+				<float>68.0</float>
+			</attr>
+			<attr name="y">
+				<float>102.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_35">
+			<attr name="x">
+				<float>70.0</float>
+			</attr>
+			<attr name="y">
+				<float>76.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_36">
+			<attr name="x">
+				<float>70.0</float>
+			</attr>
+			<attr name="y">
+				<float>102.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_37">
+			<attr name="x">
+				<float>75.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_38">
+			<attr name="x">
+				<float>75.0</float>
+			</attr>
+			<attr name="y">
+				<float>100.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_39">
+			<attr name="x">
+				<float>80.0</float>
+			</attr>
+			<attr name="y">
+				<float>73.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_40">
+			<attr name="x">
+				<float>82.0</float>
+			</attr>
+			<attr name="y">
+				<float>99.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_41">
+			<attr name="x">
+				<float>84.0</float>
+			</attr>
+			<attr name="y">
+				<float>106.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_42">
+			<attr name="x">
+				<float>85.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_43">
+			<attr name="x">
+				<float>86.0</float>
+			</attr>
+			<attr name="y">
+				<float>47.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_44">
+			<attr name="x">
+				<float>86.0</float>
+			</attr>
+			<attr name="y">
+				<float>111.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_45">
+			<attr name="x">
+				<float>88.0</float>
+			</attr>
+			<attr name="y">
+				<float>172.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_46">
+			<attr name="x">
+				<float>89.0</float>
+			</attr>
+			<attr name="y">
+				<float>96.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_47">
+			<attr name="x">
+				<float>90.0</float>
+			</attr>
+			<attr name="y">
+				<float>44.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_48">
+			<attr name="x">
+				<float>90.0</float>
+			</attr>
+			<attr name="y">
+				<float>69.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_49">
+			<attr name="x">
+				<float>92.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_50">
+			<attr name="x">
+				<float>94.0</float>
+			</attr>
+			<attr name="y">
+				<float>94.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_51">
+			<attr name="x">
+				<float>95.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_52">
+			<attr name="x">
+				<float>99.0</float>
+			</attr>
+			<attr name="y">
+				<float>13.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_53">
+			<attr name="x">
+				<float>99.0</float>
+			</attr>
+			<attr name="y">
+				<float>93.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_54">
+			<attr name="x">
+				<float>100.0</float>
+			</attr>
+			<attr name="y">
+				<float>16.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_55">
+			<attr name="x">
+				<float>101.0</float>
+			</attr>
+			<attr name="y">
+				<float>21.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_56">
+			<attr name="x">
+				<float>101.0</float>
+			</attr>
+			<attr name="y">
+				<float>26.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_57">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>31.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_58">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>36.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_59">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_60">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_61">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_62">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_63">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>164.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_64">
+			<attr name="x">
+				<float>103.0</float>
+			</attr>
+			<attr name="y">
+				<float>41.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_65">
+			<attr name="x">
+				<float>104.0</float>
+			</attr>
+			<attr name="y">
+				<float>91.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_66">
+			<attr name="x">
+				<float>105.0</float>
+			</attr>
+			<attr name="y">
+				<float>90.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_67">
+			<attr name="x">
+				<float>107.0</float>
+			</attr>
+			<attr name="y">
+				<float>165.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_68">
+			<attr name="x">
+				<float>109.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_69">
+			<attr name="x">
+				<float>113.0</float>
+			</attr>
+			<attr name="y">
+				<float>168.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_70">
+			<attr name="x">
+				<float>113.0</float>
+			</attr>
+			<attr name="y">
+				<float>170.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_71">
+			<attr name="x">
+				<float>114.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_72">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>35.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_73">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_74">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>147.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_75">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_76">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>112.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_77">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>132.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_78">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>137.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_79">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>142.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_80">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>152.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_81">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>157.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_82">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>162.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_83">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>87.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_84">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>92.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_85">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>97.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_86">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>102.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_87">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>107.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_88">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>117.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_89">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>122.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_90">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>127.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_91">
+			<attr name="x">
+				<float>118.0</float>
+			</attr>
+			<attr name="y">
+				<float>34.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_92">
+			<attr name="x">
+				<float>119.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_93">
+			<attr name="x">
+				<float>124.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_94">
+			<attr name="x">
+				<float>124.0</float>
+			</attr>
+			<attr name="y">
+				<float>87.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_95">
+			<attr name="x">
+				<float>129.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_96">
+			<attr name="x">
+				<float>129.0</float>
+			</attr>
+			<attr name="y">
+				<float>88.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_97">
+			<attr name="x">
+				<float>130.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_98">
+			<attr name="x">
+				<float>134.0</float>
+			</attr>
+			<attr name="y">
+				<float>90.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_99">
+			<attr name="x">
+				<float>137.0</float>
+			</attr>
+			<attr name="y">
+				<float>161.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_100">
+			<attr name="x">
+				<float>138.0</float>
+			</attr>
+			<attr name="y">
+				<float>166.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_101">
+			<attr name="x">
+				<float>138.0</float>
+			</attr>
+			<attr name="y">
+				<float>171.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_102">
+			<attr name="x">
+				<float>138.0</float>
+			</attr>
+			<attr name="y">
+				<float>179.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_103">
+			<attr name="x">
+				<float>139.0</float>
+			</attr>
+			<attr name="y">
+				<float>92.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_104">
+			<attr name="x">
+				<float>139.0</float>
+			</attr>
+			<attr name="y">
+				<float>176.0</float>
+			</attr>
+		</node>
+		<node id="0x4f8d_collection1_15878_787_1971_837_2032_105">
+			<attr name="x">
+				<float>143.0</float>
+			</attr>
+			<attr name="y">
+				<float>94.0</float>
+			</attr>
+		</node>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_1" to="0x4f8d_collection1_15878_787_1971_837_2032_2"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_0" to="0x4f8d_collection1_15878_787_1971_837_2032_1"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_4" to="0x4f8d_collection1_15878_787_1971_837_2032_5"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_3" to="0x4f8d_collection1_15878_787_1971_837_2032_4"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_5" to="0x4f8d_collection1_15878_787_1971_837_2032_6"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_6" to="0x4f8d_collection1_15878_787_1971_837_2032_7"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_7" to="0x4f8d_collection1_15878_787_1971_837_2032_8"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_8" to="0x4f8d_collection1_15878_787_1971_837_2032_15"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_15" to="0x4f8d_collection1_15878_787_1971_837_2032_26"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_13" to="0x4f8d_collection1_15878_787_1971_837_2032_17"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_9" to="0x4f8d_collection1_15878_787_1971_837_2032_13"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_9" to="0x4f8d_collection1_15878_787_1971_837_2032_12"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_11" to="0x4f8d_collection1_15878_787_1971_837_2032_12"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_10" to="0x4f8d_collection1_15878_787_1971_837_2032_11"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_10" to="0x4f8d_collection1_15878_787_1971_837_2032_16"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_16" to="0x4f8d_collection1_15878_787_1971_837_2032_23"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_17" to="0x4f8d_collection1_15878_787_1971_837_2032_18"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_14" to="0x4f8d_collection1_15878_787_1971_837_2032_19"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_26" to="0x4f8d_collection1_15878_787_1971_837_2032_27"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_18" to="0x4f8d_collection1_15878_787_1971_837_2032_19"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_21" to="0x4f8d_collection1_15878_787_1971_837_2032_22"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_20" to="0x4f8d_collection1_15878_787_1971_837_2032_21"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_20" to="0x4f8d_collection1_15878_787_1971_837_2032_25"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_22" to="0x4f8d_collection1_15878_787_1971_837_2032_23"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_24" to="0x4f8d_collection1_15878_787_1971_837_2032_25"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_27" to="0x4f8d_collection1_15878_787_1971_837_2032_28"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_28" to="0x4f8d_collection1_15878_787_1971_837_2032_29"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_29" to="0x4f8d_collection1_15878_787_1971_837_2032_30"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_30" to="0x4f8d_collection1_15878_787_1971_837_2032_32"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_31" to="0x4f8d_collection1_15878_787_1971_837_2032_32"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_35" to="0x4f8d_collection1_15878_787_1971_837_2032_37"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_33" to="0x4f8d_collection1_15878_787_1971_837_2032_35"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_36" to="0x4f8d_collection1_15878_787_1971_837_2032_38"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_34" to="0x4f8d_collection1_15878_787_1971_837_2032_36"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_37" to="0x4f8d_collection1_15878_787_1971_837_2032_39"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_38" to="0x4f8d_collection1_15878_787_1971_837_2032_40"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_39" to="0x4f8d_collection1_15878_787_1971_837_2032_42"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_40" to="0x4f8d_collection1_15878_787_1971_837_2032_41"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_40" to="0x4f8d_collection1_15878_787_1971_837_2032_46"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_42" to="0x4f8d_collection1_15878_787_1971_837_2032_48"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_41" to="0x4f8d_collection1_15878_787_1971_837_2032_44"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_46" to="0x4f8d_collection1_15878_787_1971_837_2032_50"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_48" to="0x4f8d_collection1_15878_787_1971_837_2032_51"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_47" to="0x4f8d_collection1_15878_787_1971_837_2032_49"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_43" to="0x4f8d_collection1_15878_787_1971_837_2032_47"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_50" to="0x4f8d_collection1_15878_787_1971_837_2032_53"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_51" to="0x4f8d_collection1_15878_787_1971_837_2032_62"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_53" to="0x4f8d_collection1_15878_787_1971_837_2032_65"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_62" to="0x4f8d_collection1_15878_787_1971_837_2032_68"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_54" to="0x4f8d_collection1_15878_787_1971_837_2032_55"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_52" to="0x4f8d_collection1_15878_787_1971_837_2032_54"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_65" to="0x4f8d_collection1_15878_787_1971_837_2032_66"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_55" to="0x4f8d_collection1_15878_787_1971_837_2032_56"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_56" to="0x4f8d_collection1_15878_787_1971_837_2032_57"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_57" to="0x4f8d_collection1_15878_787_1971_837_2032_58"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_58" to="0x4f8d_collection1_15878_787_1971_837_2032_64"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_60" to="0x4f8d_collection1_15878_787_1971_837_2032_61"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_59" to="0x4f8d_collection1_15878_787_1971_837_2032_60"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_59" to="0x4f8d_collection1_15878_787_1971_837_2032_64"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_61" to="0x4f8d_collection1_15878_787_1971_837_2032_62"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_68" to="0x4f8d_collection1_15878_787_1971_837_2032_71"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_67" to="0x4f8d_collection1_15878_787_1971_837_2032_69"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_63" to="0x4f8d_collection1_15878_787_1971_837_2032_67"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_69" to="0x4f8d_collection1_15878_787_1971_837_2032_70"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_69" to="0x4f8d_collection1_15878_787_1971_837_2032_82"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_71" to="0x4f8d_collection1_15878_787_1971_837_2032_92"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_92" to="0x4f8d_collection1_15878_787_1971_837_2032_93"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_72" to="0x4f8d_collection1_15878_787_1971_837_2032_91"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_75" to="0x4f8d_collection1_15878_787_1971_837_2032_83"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_73" to="0x4f8d_collection1_15878_787_1971_837_2032_75"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_80" to="0x4f8d_collection1_15878_787_1971_837_2032_81"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_74" to="0x4f8d_collection1_15878_787_1971_837_2032_80"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_74" to="0x4f8d_collection1_15878_787_1971_837_2032_79"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_83" to="0x4f8d_collection1_15878_787_1971_837_2032_84"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_83" to="0x4f8d_collection1_15878_787_1971_837_2032_94"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_88" to="0x4f8d_collection1_15878_787_1971_837_2032_89"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_76" to="0x4f8d_collection1_15878_787_1971_837_2032_88"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_76" to="0x4f8d_collection1_15878_787_1971_837_2032_87"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_78" to="0x4f8d_collection1_15878_787_1971_837_2032_79"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_77" to="0x4f8d_collection1_15878_787_1971_837_2032_78"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_77" to="0x4f8d_collection1_15878_787_1971_837_2032_90"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_81" to="0x4f8d_collection1_15878_787_1971_837_2032_82"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_84" to="0x4f8d_collection1_15878_787_1971_837_2032_85"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_94" to="0x4f8d_collection1_15878_787_1971_837_2032_96"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_85" to="0x4f8d_collection1_15878_787_1971_837_2032_86"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_86" to="0x4f8d_collection1_15878_787_1971_837_2032_87"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_89" to="0x4f8d_collection1_15878_787_1971_837_2032_90"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_93" to="0x4f8d_collection1_15878_787_1971_837_2032_95"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_95" to="0x4f8d_collection1_15878_787_1971_837_2032_97"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_96" to="0x4f8d_collection1_15878_787_1971_837_2032_98"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_98" to="0x4f8d_collection1_15878_787_1971_837_2032_103"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_103" to="0x4f8d_collection1_15878_787_1971_837_2032_105"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_100" to="0x4f8d_collection1_15878_787_1971_837_2032_101"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_99" to="0x4f8d_collection1_15878_787_1971_837_2032_100"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_101" to="0x4f8d_collection1_15878_787_1971_837_2032_104"/>
+		<edge from="0x4f8d_collection1_15878_787_1971_837_2032_102" to="0x4f8d_collection1_15878_787_1971_837_2032_104"/>
+	</graph>
+</gxl>
+
